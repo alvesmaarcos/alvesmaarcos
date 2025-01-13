@@ -18,7 +18,7 @@ My name is Marcos, i'm a Software Engineering student from Federal University of
 
 - [x] I'm currently learning Java.
 - [x] I'm currently working on OOP.
-- [x] How to reach me: alves_maarcos (Linkedin).
+- [x] How to reach me: alves_maarcos [(Linkedin)](https://www.linkedin.com/in/marcos-emanuel-alves-dias-49b0b6311/).
 
 ## Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
