@@ -1,23 +1,8 @@
 ## Hi there 👋
-
-<!--
-**alvesmaarcos/alvesmaarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 My name is Marcos, i'm a Software Engineering student from Federal University of Ceará. I'm actually in the second semester of graduation, and studying very important disciplines, such as Object-Oriented Programming (OOP). Programming Foundations was the first semester main discipline and i am proud to announce that i completed it with a 9.8 final grade!
 
-- [x] I'm currently learning Java.
-- [x] I'm currently working on OOP.
+- [x] I'm currently learning OOP in Java.
+- [x] I am currently engaged in courses out of University, such as Frontend foundations and software development using Python.
 - [x] How to reach me: alves_maarcos [(Linkedin)](https://www.linkedin.com/in/marcos-emanuel-alves-dias-49b0b6311/).
 
 ## Tools
