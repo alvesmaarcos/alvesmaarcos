@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Marcos, i'm a Software Engineering student from Federal University of Ceará. I'm actually in the second semester of graduation, and studying very important disciplines, such as Object-Oriented Programming (OOP). Programming Foundations was the first semester main discipline and i am proud to announce that i completed it with a 9.8 final grade!
+My name is Marcos, i'm a Software Engineering student from Federal University of Ceará. I'm actually in the second semester of graduation, and studying very important disciplines, such as Object-Oriented Programming (OOP). OOP was the main discipline in the last semester and i am proud to announce that i completed it with a 9.9 final grade!
 
 - [x] I'm currently learning OOP in Java.
 - [x] I am currently engaged in courses out of University, such as Frontend foundations and software development using Python.
